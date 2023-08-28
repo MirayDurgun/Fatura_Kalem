@@ -10,4 +10,3 @@ Bu proje, basit bir fatura yönetim uygulamasını simüle eder. Kullanıcılar 
 
 - **Kesilen Faturalar:** Önceden oluşturulan faturaları görüntüleyebilirsiniz. Dosya adlarına göre faturaları listeleyerek içeriklerini inceleyebilirsiniz.
 
-## Ekran Görüntüleri
